@@ -1,0 +1,13 @@
+{
+  "result": "PASS",
+  "staged_stl_files": 92,
+  "all_stl_structurally_valid": true,
+  "all_stl_watertight_winding_consistent_positive_volume": true,
+  "source_geometry_comparisons_passed": 78,
+  "private_identifier_or_metadata_findings": 0,
+  "image_pdf_archive_or_gcode_files": 0,
+  "git_history_present": false,
+  "scan_scope": "All staged file bytes and filenames; complete fixed-layout binary STL payloads and normalized headers; all text decoded; source private identifiers and reference URLs checked in memory without retaining their values.",
+  "excluded_content": "Actual-building reference material, images, screenshots, thumbnails, archives, printer code, private account/contact metadata and reference location information excluded.",
+  "limits": "STL coordinates are authorized local Cartesian mesh geometry. No geographic inputs included. Checks establish digital integrity and source consistency, not physical fit or final assembly."
+}

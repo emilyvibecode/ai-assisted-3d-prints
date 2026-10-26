@@ -1,0 +1,121 @@
+{
+  "version": "v06 wall production candidate v01",
+  "scale_denominator": 120,
+  "wall_mm": 1.2,
+  "rebate_start_from_outer_face_mm": 0.65,
+  "rebate_depth_mm": 0.65,
+  "rebate_margin_mm": 0.75,
+  "house_offset_x_ft": 8,
+  "house_offset_y_ft": 25,
+  "border_mm": 10,
+  "assembly_floor_z_mm": 4.6,
+  "wall_height_ft": 10,
+  "left": [
+    {
+      "ID": "L00?",
+      "room": "probable extra front-room window",
+      "station": 8,
+      "width": 5,
+      "sill": 3,
+      "height": 5
+    },
+    {
+      "ID": "L01",
+      "room": "little living / media",
+      "station": 25,
+      "width": 6,
+      "sill": 3,
+      "height": 5
+    },
+    {
+      "ID": "L02A",
+      "room": "office A",
+      "station": 41,
+      "width": 4,
+      "sill": 3,
+      "height": 5
+    },
+    {
+      "ID": "L02B",
+      "room": "office B",
+      "station": 47,
+      "width": 4,
+      "sill": 3,
+      "height": 5
+    },
+    {
+      "ID": "L03",
+      "room": "master near backyard",
+      "station": 70,
+      "width": 6,
+      "sill": 2.5,
+      "height": 5
+    },
+    {
+      "ID": "L04",
+      "room": "Frosted bathroom",
+      "station": 63,
+      "width": 2,
+      "sill": 3.5,
+      "height": 4.5,
+      "side": "street-left",
+      "order": "between master L03 and office L02A/B; rear to front",
+      "dimension_status": "estimated candidate, not measured"
+    }
+  ],
+  "right": [
+    {
+      "ID": "R01",
+      "room": "Bedroom before garage",
+      "station": 29,
+      "width": 5,
+      "sill": 3,
+      "height": 5
+    },
+    {
+      "ID": "R02",
+      "room": "Kitchen / counter",
+      "station": 43,
+      "width": 3.5,
+      "sill": 4,
+      "height": 4
+    },
+    {
+      "ID": "R03",
+      "room": "Pantry / counter",
+      "station": 51,
+      "width": 3.5,
+      "sill": 4,
+      "height": 4
+    },
+    {
+      "ID": "R04",
+      "room": "Dining 1",
+      "station": 60,
+      "width": 3,
+      "sill": 2.5,
+      "height": 5
+    },
+    {
+      "ID": "R05",
+      "room": "Dining 2",
+      "station": 65,
+      "width": 3,
+      "sill": 2.5,
+      "height": 5
+    },
+    {
+      "ID": "R06",
+      "room": "Dining 3",
+      "station": 70,
+      "width": 3,
+      "sill": 2.5,
+      "height": 5
+    }
+  ],
+  "garage_side": "intentionally solid; modeling choice, not as-built proof",
+  "status": "User requested preparation from reviewed layout; opening dimensions/spacing remain estimates; no physical print authorization",
+  "existing_front_rear": "Retain v05 apertures and 12 original heads; no guessed additional rear divisions",
+  "glazing_sheet_candidate_mm": 0.25,
+  "pocket_fit": "coupon appearance reported good, exact physical clearance/paint stack not certified"
+}

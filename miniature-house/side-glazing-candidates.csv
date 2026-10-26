@@ -1,0 +1,13 @@
+ID,side,aperture_width_mm,aperture_height_mm,reference_insert_width_mm,reference_insert_height_mm,nominal_sheet_mm,pocket_depth_candidate_mm,material,dimension_basis
+L00?,left,12.7,12.7,13.799999999999999,13.799999999999999,0.25,0.55,dark screen / clear sheet per finish,estimated approved review candidate; measure real sheet and coupon fit before cutting
+L01,left,15.24,12.7,16.34,13.799999999999999,0.25,0.55,dark screen / clear sheet per finish,estimated approved review candidate; measure real sheet and coupon fit before cutting
+L02A,left,10.16,12.7,11.26,13.799999999999999,0.25,0.55,dark screen / clear sheet per finish,estimated approved review candidate; measure real sheet and coupon fit before cutting
+L02B,left,10.16,12.7,11.26,13.799999999999999,0.25,0.55,dark screen / clear sheet per finish,estimated approved review candidate; measure real sheet and coupon fit before cutting
+L03,left,15.24,12.7,16.34,13.799999999999999,0.25,0.55,dark screen / clear sheet per finish,estimated approved review candidate; measure real sheet and coupon fit before cutting
+L04,left,5.08,11.43,6.18,12.53,0.25,0.55,frosted,estimated approved review candidate; measure real sheet and coupon fit before cutting
+R01,right,12.7,12.7,13.799999999999999,13.799999999999999,0.25,0.55,dark screen / clear sheet per finish,estimated approved review candidate; measure real sheet and coupon fit before cutting
+R02,right,8.89,10.16,9.99,11.26,0.25,0.55,dark screen / clear sheet per finish,estimated approved review candidate; measure real sheet and coupon fit before cutting
+R03,right,8.89,10.16,9.99,11.26,0.25,0.55,dark screen / clear sheet per finish,estimated approved review candidate; measure real sheet and coupon fit before cutting
+R04,right,7.62,12.7,8.72,13.799999999999999,0.25,0.55,dark screen / clear sheet per finish,estimated approved review candidate; measure real sheet and coupon fit before cutting
+R05,right,7.62,12.7,8.72,13.799999999999999,0.25,0.55,dark screen / clear sheet per finish,estimated approved review candidate; measure real sheet and coupon fit before cutting
+R06,right,7.62,12.7,8.72,13.799999999999999,0.25,0.55,dark screen / clear sheet per finish,estimated approved review candidate; measure real sheet and coupon fit before cutting

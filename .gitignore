@@ -1,0 +1,16 @@
+# Local environment and generated working files
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+.matplotlib/
+miniature-house/source/baseline/parts/
+miniature-house/source/baseline/*.obj
+miniature-house/source/baseline/manifest.json
+miniature-house/source/baseline/parts.csv
+miniature-house/source/baseline/mesh-checks.json
+miniature-house/source/baseline/surface-detail-log.json
+miniature-house/source/walls/parts/
+miniature-house/source/walls/candidate-manifest.json
+miniature-house/source/walls/geometry-checks.json
+miniature-house/source/walls/parts.csv

@@ -1,0 +1,22 @@
+{
+  "status": "PROVISIONAL REVIEW ONLY; not sliced, printed or physically tested",
+  "scale": "1:120",
+  "candidate_method": "Only R6 front eave boundary moved forward; ridge points, side bounds, underside Z and rear clipping retained. Front roof plane rebuilt, not scaled or translated. Existing relief method reapplied.",
+  "candidate_assembly_translation_mm": [
+    115.88000000000001,
+    77.78,
+    30.0
+  ],
+  "front_edge_advance_mm": 6.3500000000000085,
+  "new_double_wall_overhang_mm": 0.7999999982118595,
+  "new_single_wall_overhang_mm": 7.149999999701976,
+  "old_front_pitch_degrees": 15.169696689457936,
+  "candidate_front_pitch_degrees": 12.470690381612986,
+  "mesh_checks": {
+    "STL_watertight": true,
+    "STL_positive_volume": true,
+    "STL_components": 1,
+    "3MF_watertight": true,
+    "STL_3MF_symmetric_difference_mm3": 0.002381437138795777
+  }
+}

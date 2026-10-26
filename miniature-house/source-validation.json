@@ -1,0 +1,323 @@
+{
+  "python": "3.9",
+  "environment": "Existing environment with recorded dependency versions; no fresh install performed",
+  "baseline_generator_exit_code": 0,
+  "wall_generator_exit_code": 0,
+  "wall_generator_failed_checks": 0,
+  "comparison": "Triangle coordinate sets rounded to 0.00001 mm; STL headers ignored",
+  "current_exports_compared": 78,
+  "results": [
+    {
+      "file": "models/site-and-details/entry-door-insert.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/garage-single-insert.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/garage-double-insert.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/front-window-divider.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/patio-mullions.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/foundation-tray.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/front-stone-inserts.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/three-opening-portal.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/roofs/roof-left-front.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/roofs/roof-left-mid.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/roofs/roof-left-rear-gable.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/test-coupons/coupon-gable-roof-edge.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/rear-gable-stucco-infill.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/roofs/roof-main.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/roofs/roof-right-mid.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/roofs/roof-garage.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/roofs/roof-rear-right.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/roofs/roof-portal.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/roofs/roof-covered-patio.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/patio-posts.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/pool-basin.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/base-front.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/base-middle.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/base-rear.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/rear-paver-deck.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/driveway-paver-insert.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/courtyard-floor.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/courtyard-gravel-bed.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/raised-pool-tile-wall.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/pool-stone-piers.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/pergola-post-1.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/pergola-post-2.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/pergola-post-3.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/pergola-post-4.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/pergola-flat-lattice.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/test-coupons/coupon-pergola-flat-lattice.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/test-coupons/coupon-pergola-bearing-post.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/test-coupons/pergola-positioning-jig.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/adirondack-chair.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/pool-lounger.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/patio-chair.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/patio-table.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/test-coupons/coupon-furniture-adirondack.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/test-coupons/coupon-window-pocket.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/test-coupons/coupon-glazing-clearance-ladder.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/test-coupons/coupon-pergola-span-joint.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/test-coupons/coupon-roof-edge.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/test-coupons/coupon-pool-finish-well.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/test-coupons/coupon-locator-sockets.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/test-coupons/coupon-locator-pin.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/site-and-details/foundation-locator-plug.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/test-coupons/coupon-roof-tile-relief.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/test-coupons/coupon-stone-relief.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/lintel-side-left-L00.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/lintel-side-left-L01.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/lintel-side-left-L02A.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/lintel-side-left-L02B.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/lintel-side-left-L03.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/lintel-side-left-L04.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/lintel-side-right-R01.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/lintel-side-right-R02.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/lintel-side-right-R03.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/lintel-side-right-R04.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/lintel-side-right-R05.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/lintel-side-right-R06.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/miniature-house-v06-wall-frame.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/lintel-courtyard-side-screen.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/lintel-entry-door.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/lintel-entry-sidelight-L.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/lintel-entry-sidelight-R.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/lintel-garage-double.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/lintel-garage-single.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/lintel-left-front-1.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/lintel-left-front-2.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/lintel-rear-dining.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/lintel-rear-four-panel.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/lintel-rear-hinged-door.stl",
+      "geometry_matches_sanitized_generator": true
+    },
+    {
+      "file": "models/structure/lintel-rear-left.stl",
+      "geometry_matches_sanitized_generator": true
+    }
+  ]
+}

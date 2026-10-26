@@ -1,0 +1,434 @@
+{
+  "units": "mm",
+  "parts": [
+    {
+      "name": "lintel-entry-sidelight-L",
+      "category": "print",
+      "color": "#d3c3a7",
+      "qty": 1,
+      "assembly_translation_mm": [
+        94.328,
+        159.85999999940395,
+        25.428
+      ],
+      "bounds_mm": [
+        [
+          94.328,
+          159.85999999940395,
+          25.428
+        ],
+        [
+          98.392,
+          161.0600000023842,
+          30.0
+        ]
+      ],
+      "size_mm": [
+        4.063999999999993,
+        1.2000000029802322,
+        4.571999999999999
+      ],
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 20.620329648107372,
+      "components": 1,
+      "triangles": 20
+    },
+    {
+      "name": "lintel-garage-double",
+      "category": "print",
+      "color": "#d3c3a7",
+      "qty": 1,
+      "assembly_translation_mm": [
+        147.16,
+        78.57999999821186,
+        25.428
+      ],
+      "bounds_mm": [
+        [
+          147.16,
+          78.57999999821186,
+          25.428
+        ],
+        [
+          190.34,
+          79.7800000011921,
+          30.0
+        ]
+      ],
+      "size_mm": [
+        43.18000000000001,
+        1.2000000029802322,
+        4.571999999999999
+      ],
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 219.09100254974854,
+      "components": 1,
+      "triangles": 20
+    },
+    {
+      "name": "lintel-rear-left",
+      "category": "print",
+      "color": "#d3c3a7",
+      "qty": 1,
+      "assembly_translation_mm": [
+        37.94,
+        275.5,
+        22.38
+      ],
+      "bounds_mm": [
+        [
+          37.94,
+          275.5,
+          22.38
+        ],
+        [
+          70.96000000000001,
+          276.70000000298023,
+          30.0
+        ]
+      ],
+      "size_mm": [
+        33.02000000000001,
+        1.2000000029802322,
+        7.620000000000001
+      ],
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 288.31413074986466,
+      "components": 1,
+      "triangles": 20
+    },
+    {
+      "name": "lintel-left-front-2",
+      "category": "print",
+      "color": "#d3c3a7",
+      "qty": 1,
+      "assembly_translation_mm": [
+        65.88,
+        73.5,
+        26.19
+      ],
+      "bounds_mm": [
+        [
+          65.88,
+          73.5,
+          26.19
+        ],
+        [
+          88.74,
+          74.70000000298023,
+          30.0
+        ]
+      ],
+      "size_mm": [
+        22.86,
+        1.2000000029802322,
+        3.8099999999999987
+      ],
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 95.08617020847203,
+      "components": 1,
+      "triangles": 20
+    },
+    {
+      "name": "lintel-left-front-1",
+      "category": "print",
+      "color": "#d3c3a7",
+      "qty": 1,
+      "assembly_translation_mm": [
+        40.480000000000004,
+        73.5,
+        24.919999999999998
+      ],
+      "bounds_mm": [
+        [
+          40.480000000000004,
+          73.5,
+          24.919999999999998
+        ],
+        [
+          49.370000000000005,
+          74.70000000298023,
+          30.0
+        ]
+      ],
+      "size_mm": [
+        8.89,
+        1.2000000029802322,
+        5.080000000000002
+      ],
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 50.526315114720234,
+      "components": 1,
+      "triangles": 20
+    },
+    {
+      "name": "lintel-rear-dining",
+      "category": "print",
+      "color": "#d3c3a7",
+      "qty": 1,
+      "assembly_translation_mm": [
+        149.7,
+        260.25999999791384,
+        22.38
+      ],
+      "bounds_mm": [
+        [
+          149.7,
+          260.25999999791384,
+          22.38
+        ],
+        [
+          180.17999999999998,
+          261.46000000089407,
+          30.0
+        ]
+      ],
+      "size_mm": [
+        30.47999999999999,
+        1.2000000029802322,
+        7.620000000000001
+      ],
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 266.13612064449177,
+      "components": 1,
+      "triangles": 20
+    },
+    {
+      "name": "lintel-garage-single",
+      "category": "print",
+      "color": "#d3c3a7",
+      "qty": 1,
+      "assembly_translation_mm": [
+        119.47400000000002,
+        84.92999999970198,
+        25.428
+      ],
+      "bounds_mm": [
+        [
+          119.47400000000002,
+          84.92999999970198,
+          25.428
+        ],
+        [
+          141.82600000000002,
+          86.13000000268221,
+          30.0
+        ]
+      ],
+      "size_mm": [
+        22.352000000000004,
+        1.2000000029802322,
+        4.571999999999999
+      ],
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 113.4118130595956,
+      "components": 1,
+      "triangles": 20
+    },
+    {
+      "name": "lintel-rear-hinged-door",
+      "category": "print",
+      "color": "#d3c3a7",
+      "qty": 1,
+      "assembly_translation_mm": [
+        123.792,
+        234.85999999940395,
+        25.428
+      ],
+      "bounds_mm": [
+        [
+          123.792,
+          234.85999999940395,
+          25.428
+        ],
+        [
+          130.39600000000002,
+          236.0600000023842,
+          30.0
+        ]
+      ],
+      "size_mm": [
+        6.604000000000013,
+        1.2000000029802322,
+        4.571999999999999
+      ],
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 33.508035687031565,
+      "components": 1,
+      "triangles": 20
+    },
+    {
+      "name": "stucco-shell",
+      "category": "print",
+      "color": "#d3c3a7",
+      "qty": 1,
+      "assembly_translation_mm": [
+        30.320000000298023,
+        73.5,
+        4.6
+      ],
+      "bounds_mm": [
+        [
+          30.320000000298023,
+          73.5,
+          4.6
+        ],
+        [
+          192.8800000026822,
+          276.70000000298023,
+          30.0
+        ]
+      ],
+      "size_mm": [
+        162.5600000023842,
+        203.20000000298023,
+        25.4
+      ],
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 23121.16070162112,
+      "components": 1,
+      "triangles": 744
+    },
+    {
+      "name": "lintel-entry-sidelight-R",
+      "category": "print",
+      "color": "#d3c3a7",
+      "qty": 1,
+      "assembly_translation_mm": [
+        109.314,
+        159.85999999940395,
+        25.428
+      ],
+      "bounds_mm": [
+        [
+          109.314,
+          159.85999999940395,
+          25.428
+        ],
+        [
+          113.37799999999999,
+          161.0600000023842,
+          30.0
+        ]
+      ],
+      "size_mm": [
+        4.063999999999993,
+        1.2000000029802322,
+        4.571999999999999
+      ],
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 20.62032964810756,
+      "components": 1,
+      "triangles": 20
+    },
+    {
+      "name": "lintel-rear-four-panel",
+      "category": "print",
+      "color": "#d3c3a7",
+      "qty": 1,
+      "assembly_translation_mm": [
+        83.66,
+        234.85999999940395,
+        25.428
+      ],
+      "bounds_mm": [
+        [
+          83.66,
+          234.85999999940395,
+          25.428
+        ],
+        [
+          120.49,
+          236.0600000023842,
+          30.0
+        ]
+      ],
+      "size_mm": [
+        36.83,
+        1.2000000029802322,
+        4.571999999999999
+      ],
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 186.87173748536733,
+      "components": 1,
+      "triangles": 20
+    },
+    {
+      "name": "lintel-entry-door",
+      "category": "print",
+      "color": "#d3c3a7",
+      "qty": 1,
+      "assembly_translation_mm": [
+        99.40799999999999,
+        159.85999999940395,
+        25.936
+      ],
+      "bounds_mm": [
+        [
+          99.40799999999999,
+          159.85999999940395,
+          25.936
+        ],
+        [
+          108.29799999999999,
+          161.0600000023842,
+          30.0
+        ]
+      ],
+      "size_mm": [
+        8.89,
+        1.2000000029802322,
+        4.064
+      ],
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 39.68762709177626,
+      "components": 1,
+      "triangles": 20
+    },
+    {
+      "name": "lintel-courtyard-side-screen",
+      "category": "print",
+      "color": "#d3c3a7",
+      "qty": 1,
+      "assembly_translation_mm": [
+        77.38000000268221,
+        126.84,
+        24.919999999999998
+      ],
+      "bounds_mm": [
+        [
+          77.38000000268221,
+          126.84,
+          24.919999999999998
+        ],
+        [
+          78.57999999821186,
+          139.54,
+          30.0
+        ]
+      ],
+      "size_mm": [
+        1.1999999955296516,
+        12.699999999999989,
+        5.080000000000002
+      ],
+      "watertight": true,
+      "winding_consistent": true,
+      "volume_mm3": 72.18044973713889,
+      "components": 1,
+      "triangles": 20
+    }
+  ]
+}

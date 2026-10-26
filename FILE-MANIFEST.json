@@ -1,0 +1,677 @@
+{
+  "note": "Lists every release file except this self-referential manifest.",
+  "files": [
+    {
+      "file": ".gitignore",
+      "type": "text/gitignore",
+      "bytes": 545,
+      "sha256": "611fd15b5c790a9b80a90ca7f8474ea583b6f78fea2b70383cc3819f6c26df8b"
+    },
+    {
+      "file": "README.md",
+      "type": "md",
+      "bytes": 1649,
+      "sha256": "aba1d3baeb36c548b08e2b7307ab6dcd1229b2d54b4021ed52ca3e2bf19be758"
+    },
+    {
+      "file": "RELEASE-VALIDATION.json",
+      "type": "json",
+      "bytes": 952,
+      "sha256": "5a2592d743fc8553c0e7016f2e3e35bf5bc1233bc2fb1a3321bad58eccf82cfc"
+    },
+    {
+      "file": "mac-mini-enclosure/README.md",
+      "type": "md",
+      "bytes": 2861,
+      "sha256": "96ddc1528312c5f3cea91d1923ba08546bee475221c52456075e7c4bf62926e9"
+    },
+    {
+      "file": "miniature-house/README.md",
+      "type": "md",
+      "bytes": 4952,
+      "sha256": "b0ead3936e4a079ebb091007e5e1900e513c31339ea38396d354b98ab6024d4c"
+    },
+    {
+      "file": "miniature-house/experimental/r6-garage-roof/R6-PROVISIONAL-front-coverage-candidate.stl",
+      "type": "stl",
+      "bytes": 641684,
+      "sha256": "414ae71d8b02a4f8fccf4bbbdb285b2e395a4fd06e42b5bb93750c1223e940d8"
+    },
+    {
+      "file": "miniature-house/experimental/r6-garage-roof/README.md",
+      "type": "md",
+      "bytes": 1317,
+      "sha256": "c608d457f7be40e1f7f20d345e08ddab24fee429ef788c0e379c360b8e764104"
+    },
+    {
+      "file": "miniature-house/experimental/r6-garage-roof/design-checks.json",
+      "type": "json",
+      "bytes": 870,
+      "sha256": "5725240eab5b28b662d52cad15c3424c41f86ecfbbfb8b27e162612925b0c27a"
+    },
+    {
+      "file": "miniature-house/head-assembly-map.csv",
+      "type": "csv",
+      "bytes": 3697,
+      "sha256": "f1cce8a8362a8caadb2c3b6b2a4f4462363a0811c2fce387811c93d769bdcb47"
+    },
+    {
+      "file": "miniature-house/mesh-validation.json",
+      "type": "json",
+      "bytes": 57691,
+      "sha256": "810ecc18606137200a5338cdd00e067faaaaac329f4d2a5f8062e12bf75c6124"
+    },
+    {
+      "file": "miniature-house/models/roofs/roof-covered-patio.stl",
+      "type": "stl",
+      "bytes": 221784,
+      "sha256": "cfd6fe3d0fb64bf507b4225fc2d2e8870c46aba13abfa6562314c6f7b05e4824"
+    },
+    {
+      "file": "miniature-house/models/roofs/roof-garage.stl",
+      "type": "stl",
+      "bytes": 569584,
+      "sha256": "b93748a1014ef3196de317ddb2aec55b0a042cc0d6e5af3c52b74b1191214014"
+    },
+    {
+      "file": "miniature-house/models/roofs/roof-left-front.stl",
+      "type": "stl",
+      "bytes": 407884,
+      "sha256": "247cbc7baf0399fc99ddc0a7307b261b653e375edbe1eafadec516b551947246"
+    },
+    {
+      "file": "miniature-house/models/roofs/roof-left-mid.stl",
+      "type": "stl",
+      "bytes": 781284,
+      "sha256": "28e6537ffb47e833a4de2f54a7116bf726fde91f478ef6c40428d5bb004661e7"
+    },
+    {
+      "file": "miniature-house/models/roofs/roof-left-rear-gable.stl",
+      "type": "stl",
+      "bytes": 284084,
+      "sha256": "528a715e77941d5e54fe520427f6d08987b8edb5ab430c302d48f7f2bf22d282"
+    },
+    {
+      "file": "miniature-house/models/roofs/roof-main.stl",
+      "type": "stl",
+      "bytes": 1195284,
+      "sha256": "a880d108439fd11a6e514dd51a380b6a887102e15342a079af689ff6e274d08f"
+    },
+    {
+      "file": "miniature-house/models/roofs/roof-portal.stl",
+      "type": "stl",
+      "bytes": 25884,
+      "sha256": "810c90d6e639c3a10d08eb6e5e8dc7e8cc8d8aec50b54c59ceec473312a48891"
+    },
+    {
+      "file": "miniature-house/models/roofs/roof-rear-right.stl",
+      "type": "stl",
+      "bytes": 194884,
+      "sha256": "dd9abea9ab4c0fd5bb60bb0e2bb3c7a199a9e1b40e952da6b9eb0f974e6a4bd4"
+    },
+    {
+      "file": "miniature-house/models/roofs/roof-right-mid.stl",
+      "type": "stl",
+      "bytes": 234984,
+      "sha256": "cf094a07c58428512ad35daf2efad7dae7e11f93a595aa3314585075a63499fa"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/adirondack-chair.stl",
+      "type": "stl",
+      "bytes": 12384,
+      "sha256": "0f9a0e161589a619edc0dd7172b54a89d9adfb88d3b6a9bca98efbc0e0472516"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/base-front.stl",
+      "type": "stl",
+      "bytes": 684,
+      "sha256": "ba79478a31a7e9ee781b96c040ff47ca595757ee8e639b1e13bceb18de68b4c1"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/base-middle.stl",
+      "type": "stl",
+      "bytes": 2384,
+      "sha256": "038c4273571bad0f9f12da1384675f28ac014580093bca53385f29ce9bda901a"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/base-rear.stl",
+      "type": "stl",
+      "bytes": 30984,
+      "sha256": "92911c2a928cf6e8081cf06f7bddebd89f9b72dabde9a1972af24c00b8630ce4"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/courtyard-floor.stl",
+      "type": "stl",
+      "bytes": 1684,
+      "sha256": "d25849b790104bc4d77294ad95292dc365c7003c27ccff0280b4f0f5f9817ce7"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/courtyard-gravel-bed.stl",
+      "type": "stl",
+      "bytes": 684,
+      "sha256": "91e2080b774aa6c2df908853fd69c1f78598f36afc66023dbbba93ca79296326"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/driveway-paver-insert.stl",
+      "type": "stl",
+      "bytes": 684,
+      "sha256": "52d67b664d53aa9178c39ceefbc04a30016411202ac5c347d39d530dccf7104c"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/entry-door-insert.stl",
+      "type": "stl",
+      "bytes": 684,
+      "sha256": "6e39e0b660fb6c1186c004aae194f015c3fdc75fe47f925ab8d61f9fa933ba91"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/foundation-locator-plug.stl",
+      "type": "stl",
+      "bytes": 684,
+      "sha256": "d3e14103a52efc4bc06bb2cab12869c0430afd9573841c64fd38e75bd9861260"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/foundation-tray.stl",
+      "type": "stl",
+      "bytes": 7884,
+      "sha256": "ca34372da3d2a8c3a0707246bad92b25816cc59a03651e9abaeb973973f24af0"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/front-stone-inserts.stl",
+      "type": "stl",
+      "bytes": 188784,
+      "sha256": "a1f4bc131894d94a2191f9aa61c850cab99089c6cb04020c3eb4d6169d6e682c"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/front-window-divider.stl",
+      "type": "stl",
+      "bytes": 684,
+      "sha256": "294eef515ea59fc6ec4c1cdd2a842b1b96296984af3702e10652d572c32d1b15"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/garage-double-insert.stl",
+      "type": "stl",
+      "bytes": 16684,
+      "sha256": "f60a063e71f51528f84cc66c83c20f27b27f7ad779910a3b01f7802446d7e34a"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/garage-single-insert.stl",
+      "type": "stl",
+      "bytes": 8684,
+      "sha256": "6ef77704e5a9fb60096834976bfad6fc24335af7d1c8a59684285efd7f45da39"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/patio-chair.stl",
+      "type": "stl",
+      "bytes": 6284,
+      "sha256": "e7c75b97ef361eac071ef29759663b9b8bf2ead6a680f7538a8a3fb5827cca96"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/patio-mullions.stl",
+      "type": "stl",
+      "bytes": 1884,
+      "sha256": "a5743d9c7309d75edf364fb63613e1fadf19b4d028f95b539c5d6dfef3f16e6c"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/patio-posts.stl",
+      "type": "stl",
+      "bytes": 1284,
+      "sha256": "2baace193d398be89301ca73b2f702e944da2569c3a97a195615c84e79a35ee9"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/patio-table.stl",
+      "type": "stl",
+      "bytes": 12684,
+      "sha256": "88ef0b37868944448b3226e2eaf61fb78d352d96825639cfb25718cefe38bc63"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/pergola-flat-lattice.stl",
+      "type": "stl",
+      "bytes": 163484,
+      "sha256": "a2241183d2d05d7860dcb2c10f115bce26818023cc41439bb553aadec732633a"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/pergola-post-1.stl",
+      "type": "stl",
+      "bytes": 684,
+      "sha256": "3926f8f268625fbfd3598977a483944480fbf49d35b9f778a9fe764b2d6fa735"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/pergola-post-2.stl",
+      "type": "stl",
+      "bytes": 684,
+      "sha256": "3926f8f268625fbfd3598977a483944480fbf49d35b9f778a9fe764b2d6fa735"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/pergola-post-3.stl",
+      "type": "stl",
+      "bytes": 684,
+      "sha256": "3926f8f268625fbfd3598977a483944480fbf49d35b9f778a9fe764b2d6fa735"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/pergola-post-4.stl",
+      "type": "stl",
+      "bytes": 684,
+      "sha256": "3926f8f268625fbfd3598977a483944480fbf49d35b9f778a9fe764b2d6fa735"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/pool-basin.stl",
+      "type": "stl",
+      "bytes": 16684,
+      "sha256": "382f7934161bd089a91fcd3f994161428684ecd59a67f2a185c2894c92af4849"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/pool-lounger.stl",
+      "type": "stl",
+      "bytes": 17684,
+      "sha256": "257a4a0b044d07ba0e7267194ece694ded0cc59116bd309ac41d532817f9f5a9"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/pool-stone-piers.stl",
+      "type": "stl",
+      "bytes": 71484,
+      "sha256": "99d4b59be7443fbc6ecf272a7b39a4b2f8d9ac5dab8bc32d371dce32ed9864d7"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/raised-pool-tile-wall.stl",
+      "type": "stl",
+      "bytes": 12084,
+      "sha256": "b9ad2e6616831809b208134553e70d02fa85a6d541385524206411ba980f7e15"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/rear-gable-stucco-infill.stl",
+      "type": "stl",
+      "bytes": 484,
+      "sha256": "bbdf9f8f5266ca0e28466a1f5757eb5201c3b12fbdd511a3a87b67b358daec02"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/rear-paver-deck.stl",
+      "type": "stl",
+      "bytes": 49684,
+      "sha256": "fd43b5e9493a033b6485a6bdd3aa9e22b78c12032fd7d1e5d5989d183937a21b"
+    },
+    {
+      "file": "miniature-house/models/site-and-details/three-opening-portal.stl",
+      "type": "stl",
+      "bytes": 5284,
+      "sha256": "efb91116588c572e6c66dcfb5814706acd15b6ac0f8f4cc05c4defdcb09bb380"
+    },
+    {
+      "file": "miniature-house/models/structure/lintel-courtyard-side-screen.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "3d13c7794927a95a3684869c782df25bcf69e21ed08cfbe7967f3dc0a07a93b9"
+    },
+    {
+      "file": "miniature-house/models/structure/lintel-entry-door.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "e3ef89a80f30e0a1a25dce69eab09d11f140e6e717781651930149ad48670cc0"
+    },
+    {
+      "file": "miniature-house/models/structure/lintel-entry-sidelight-L.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "b7d481a6be329e4d576f5311d57d4f8b69bea93b17228bdf55998aebc8acc233"
+    },
+    {
+      "file": "miniature-house/models/structure/lintel-entry-sidelight-R.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "95210c23a35c3a44ee7a4986f0323419d2c0d4fec2509fafe7ada52d81935993"
+    },
+    {
+      "file": "miniature-house/models/structure/lintel-garage-double.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "eeb501b06d1fe4ee8133e65d4b98c6372fd8f40131edd4d4b5694a7b82e2aa70"
+    },
+    {
+      "file": "miniature-house/models/structure/lintel-garage-single.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "79b6275f1559a003196d65a37b7bfab00b55d14118cd557721830a108ef63ade"
+    },
+    {
+      "file": "miniature-house/models/structure/lintel-left-front-1.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "e63948badee29a61fb25b804c55583f88563230205e016c391a4a23fe181bdaa"
+    },
+    {
+      "file": "miniature-house/models/structure/lintel-left-front-2.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "af4f4a33f6ec9ca285cdabea26664336009923565164ab0a8227d095572028bb"
+    },
+    {
+      "file": "miniature-house/models/structure/lintel-rear-dining.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "2f28ccdb4826d270f5a8d47f4830e3ca9df1e15ba2a0bd79e7f8e43b3900d3f9"
+    },
+    {
+      "file": "miniature-house/models/structure/lintel-rear-four-panel.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "bae5576d70dda17af621e0daab0ffa2d144dfedc15e502480e3cf66ce87b3a83"
+    },
+    {
+      "file": "miniature-house/models/structure/lintel-rear-hinged-door.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "c0b94fc8ccaf2611df5c94309d7ec6a128ecfd794005d25ad2258231c56324d5"
+    },
+    {
+      "file": "miniature-house/models/structure/lintel-rear-left.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "76377dbffa6db782c7b023ee21c850268046a66df7f279f1c86cfee719ddac92"
+    },
+    {
+      "file": "miniature-house/models/structure/lintel-side-left-L00.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "9610dbafe05a262a4589fb5adc87b4124424b4194aaad2ddd4db7070d081bf8c"
+    },
+    {
+      "file": "miniature-house/models/structure/lintel-side-left-L01.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "1cf8c8a9216e2e7333fe35bd4a5b65cd0319a466714b7a5baf6d9fe78ab9c930"
+    },
+    {
+      "file": "miniature-house/models/structure/lintel-side-left-L02A.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "7aca7910327e719b5e76bc3695d7443ef9fb6ae09fa67f7ef39509863682eb01"
+    },
+    {
+      "file": "miniature-house/models/structure/lintel-side-left-L02B.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "9a66b8df02388e086ac1182e2ae141465da2cb329a356adce19248ae783f8033"
+    },
+    {
+      "file": "miniature-house/models/structure/lintel-side-left-L03.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "431023e355e9a5d9752d8a42bb09c72d8a1e0bba6780333cd5ddc4946c34905d"
+    },
+    {
+      "file": "miniature-house/models/structure/lintel-side-left-L04.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "85f912690efd507273f6e66a41e38207ab2f335fcc85f1584c4f6e304316d892"
+    },
+    {
+      "file": "miniature-house/models/structure/lintel-side-right-R01.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "227ac344dd5a0ba1864d3af798cf5231ea2a23db8ecefe4786e2062c2c8a5666"
+    },
+    {
+      "file": "miniature-house/models/structure/lintel-side-right-R02.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "571ad9978f31f5341586058b5ef7016bc12da5c18da4d85ca9192d502bc2dd16"
+    },
+    {
+      "file": "miniature-house/models/structure/lintel-side-right-R03.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "e34edb32758b3db97dc477f7c32294aa7525ba3f5d5ababb4ec1823c28796b13"
+    },
+    {
+      "file": "miniature-house/models/structure/lintel-side-right-R04.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "90e2bd56af850186e3ffb42a8e3a1be9691b3a708b82b17f2c12223e91f8c13e"
+    },
+    {
+      "file": "miniature-house/models/structure/lintel-side-right-R05.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "5f5b0b1f9f86f675e8c2f602a230201e063d5ca599d3d48ba749912c7f75cccd"
+    },
+    {
+      "file": "miniature-house/models/structure/lintel-side-right-R06.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "3d9ff04d07bd98ef3fe3d559a88a0043138c9b619088e568e84baab658a8e4c3"
+    },
+    {
+      "file": "miniature-house/models/structure/miniature-house-v06-wall-frame.stl",
+      "type": "stl",
+      "bytes": 66084,
+      "sha256": "1d3d0a91f1195754f1465b9109b1b15811b362a052e0e69b7ae8fa9db5645b6b"
+    },
+    {
+      "file": "miniature-house/models/test-coupons/coupon-furniture-adirondack.stl",
+      "type": "stl",
+      "bytes": 12384,
+      "sha256": "0f9a0e161589a619edc0dd7172b54a89d9adfb88d3b6a9bca98efbc0e0472516"
+    },
+    {
+      "file": "miniature-house/models/test-coupons/coupon-gable-roof-edge.stl",
+      "type": "stl",
+      "bytes": 81884,
+      "sha256": "d9606e733a995327c26cf031652d3c165a0167be4bcb4854776a5406deee1fe9"
+    },
+    {
+      "file": "miniature-house/models/test-coupons/coupon-glazing-clearance-ladder.stl",
+      "type": "stl",
+      "bytes": 3884,
+      "sha256": "1d2d4d50b27da2c04ced92433e785fff4b54d6d0e10d8b774c0244da1307182f"
+    },
+    {
+      "file": "miniature-house/models/test-coupons/coupon-locator-pin.stl",
+      "type": "stl",
+      "bytes": 1484,
+      "sha256": "4fb628ba8fae5f75e5bd02d95d4eb6db409a2c86516130bc4aa218a89d67b270"
+    },
+    {
+      "file": "miniature-house/models/test-coupons/coupon-locator-sockets.stl",
+      "type": "stl",
+      "bytes": 3684,
+      "sha256": "8e94eb6270425145bac636c989e413c7b9df7d483074fd36bd04789e1fa9232f"
+    },
+    {
+      "file": "miniature-house/models/test-coupons/coupon-pergola-bearing-post.stl",
+      "type": "stl",
+      "bytes": 684,
+      "sha256": "485b208dcb8dbf0096d751993181b7aedd302b9a72c9335753a0027cacfa056f"
+    },
+    {
+      "file": "miniature-house/models/test-coupons/coupon-pergola-flat-lattice.stl",
+      "type": "stl",
+      "bytes": 54684,
+      "sha256": "792fa82af92095c8b04be73317f84a670caaba8c9334e2011e85d8caab37a94a"
+    },
+    {
+      "file": "miniature-house/models/test-coupons/coupon-pergola-span-joint.stl",
+      "type": "stl",
+      "bytes": 4684,
+      "sha256": "928e721e01ab1a3f97f1f9fa5fa0632830fddcf7d4bbe90777a1aaaa0183c50d"
+    },
+    {
+      "file": "miniature-house/models/test-coupons/coupon-pool-finish-well.stl",
+      "type": "stl",
+      "bytes": 1484,
+      "sha256": "bc82c52f73028c87cd28f766a76ab15a0b0cf972b5f8bd9203bc4a12ef8ce37e"
+    },
+    {
+      "file": "miniature-house/models/test-coupons/coupon-roof-edge.stl",
+      "type": "stl",
+      "bytes": 484,
+      "sha256": "7f3576d4e80f04e23ad6ce2820f58bec423a676105e89810b980011886d1d9f1"
+    },
+    {
+      "file": "miniature-house/models/test-coupons/coupon-roof-tile-relief.stl",
+      "type": "stl",
+      "bytes": 54584,
+      "sha256": "8a79654fae46394af9602e84416bed04e8b1c7d1a7d2ee4f243313bfeeece4e1"
+    },
+    {
+      "file": "miniature-house/models/test-coupons/coupon-stone-relief.stl",
+      "type": "stl",
+      "bytes": 73484,
+      "sha256": "3229455fabf568f8337d8a2386fd27a3a6e14c5e48ed3e1b626457e0d154e320"
+    },
+    {
+      "file": "miniature-house/models/test-coupons/coupon-window-pocket.stl",
+      "type": "stl",
+      "bytes": 2484,
+      "sha256": "7b0cc6a02f24a153e082f5b7e18cd41d7091bdc5f64f0499dda2d930d9ca5d7f"
+    },
+    {
+      "file": "miniature-house/models/test-coupons/pergola-positioning-jig.stl",
+      "type": "stl",
+      "bytes": 5684,
+      "sha256": "9d9d0f1d5d47396d1f9ec1421260459566bcf5f5e9cb1bf3450e62fdd3e6f812"
+    },
+    {
+      "file": "miniature-house/parts-manifest.json",
+      "type": "json",
+      "bytes": 34312,
+      "sha256": "fc8104ce096b8c89de9711e792176ff19403930c77dd0a155a45c9573dad0f77"
+    },
+    {
+      "file": "miniature-house/side-glazing-candidates.csv",
+      "type": "csv",
+      "bytes": 2258,
+      "sha256": "8a01bd7fb7ef8450943ace199f1f1d46d3da7c7982f527cf436f129ef4272b5a"
+    },
+    {
+      "file": "miniature-house/source/README.md",
+      "type": "md",
+      "bytes": 1966,
+      "sha256": "f35419d6e8016a29775a30a75fd9f9daedd46294cb8e57c0d781e3d3df0523c7"
+    },
+    {
+      "file": "miniature-house/source/baseline/build.py",
+      "type": "py",
+      "bytes": 20713,
+      "sha256": "df0253102e1c35e8ecabcc57a77aa56f3c80f7b4c331265140d9a84a03d3fc88"
+    },
+    {
+      "file": "miniature-house/source/baseline/parameters.json",
+      "type": "json",
+      "bytes": 935,
+      "sha256": "b731229ba40b7bf7839eabc231f7eea1b260171d793c943d88c50c3388a9b19e"
+    },
+    {
+      "file": "miniature-house/source/baseline/surface_details.py",
+      "type": "py",
+      "bytes": 5256,
+      "sha256": "f61c7449aee942b44f33ce384ddcec1507e345caf962af68374a690ee55af06b"
+    },
+    {
+      "file": "miniature-house/source/requirements.txt",
+      "type": "txt",
+      "bytes": 111,
+      "sha256": "3d786d7018e1ae36b13e07364e53b4b67a680abbb680e797d38b5d1d7e4290aa"
+    },
+    {
+      "file": "miniature-house/source/walls/build_wall_candidate.py",
+      "type": "py",
+      "bytes": 6293,
+      "sha256": "13ca4a0f99538df0aa3d70d26e06ed28f1159b4031ac962e319feb117e75b9df"
+    },
+    {
+      "file": "miniature-house/source/walls/reference-inputs/lintel-courtyard-side-screen.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "3d13c7794927a95a3684869c782df25bcf69e21ed08cfbe7967f3dc0a07a93b9"
+    },
+    {
+      "file": "miniature-house/source/walls/reference-inputs/lintel-entry-door.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "e3ef89a80f30e0a1a25dce69eab09d11f140e6e717781651930149ad48670cc0"
+    },
+    {
+      "file": "miniature-house/source/walls/reference-inputs/lintel-entry-sidelight-L.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "b7d481a6be329e4d576f5311d57d4f8b69bea93b17228bdf55998aebc8acc233"
+    },
+    {
+      "file": "miniature-house/source/walls/reference-inputs/lintel-entry-sidelight-R.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "95210c23a35c3a44ee7a4986f0323419d2c0d4fec2509fafe7ada52d81935993"
+    },
+    {
+      "file": "miniature-house/source/walls/reference-inputs/lintel-garage-double.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "eeb501b06d1fe4ee8133e65d4b98c6372fd8f40131edd4d4b5694a7b82e2aa70"
+    },
+    {
+      "file": "miniature-house/source/walls/reference-inputs/lintel-garage-single.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "79b6275f1559a003196d65a37b7bfab00b55d14118cd557721830a108ef63ade"
+    },
+    {
+      "file": "miniature-house/source/walls/reference-inputs/lintel-left-front-1.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "e63948badee29a61fb25b804c55583f88563230205e016c391a4a23fe181bdaa"
+    },
+    {
+      "file": "miniature-house/source/walls/reference-inputs/lintel-left-front-2.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "af4f4a33f6ec9ca285cdabea26664336009923565164ab0a8227d095572028bb"
+    },
+    {
+      "file": "miniature-house/source/walls/reference-inputs/lintel-rear-dining.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "2f28ccdb4826d270f5a8d47f4830e3ca9df1e15ba2a0bd79e7f8e43b3900d3f9"
+    },
+    {
+      "file": "miniature-house/source/walls/reference-inputs/lintel-rear-four-panel.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "bae5576d70dda17af621e0daab0ffa2d144dfedc15e502480e3cf66ce87b3a83"
+    },
+    {
+      "file": "miniature-house/source/walls/reference-inputs/lintel-rear-hinged-door.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "c0b94fc8ccaf2611df5c94309d7ec6a128ecfd794005d25ad2258231c56324d5"
+    },
+    {
+      "file": "miniature-house/source/walls/reference-inputs/lintel-rear-left.stl",
+      "type": "stl",
+      "bytes": 1084,
+      "sha256": "76377dbffa6db782c7b023ee21c850268046a66df7f279f1c86cfee719ddac92"
+    },
+    {
+      "file": "miniature-house/source/walls/reference-inputs/v05-manifest.json",
+      "type": "json",
+      "bytes": 8842,
+      "sha256": "55e78da0ab4b5a993df8b98382db180c8e6d5b2385e3dab06822a0595f9efbb6"
+    },
+    {
+      "file": "miniature-house/source/walls/reference-inputs/v05-stucco-shell.stl",
+      "type": "stl",
+      "bytes": 37284,
+      "sha256": "cfe3e1a77a1e0e7bdb68075ab7b1cde55a2ba4af4bd2a442ea15175e841f3169"
+    },
+    {
+      "file": "miniature-house/source/walls/wall-parameters.json",
+      "type": "json",
+      "bytes": 2675,
+      "sha256": "90f5608e1edd7f7fc0be6d0a1fe70f44b87e83ca35ad6572012b3130e983cfd1"
+    },
+    {
+      "file": "miniature-house/source-validation.json",
+      "type": "json",
+      "bytes": 10076,
+      "sha256": "cc387b519be34ae5638c66c54b03553f431b1c04dd2ddec63bf2b5296af630b2"
+    }
+  ]
+}
